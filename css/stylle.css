@@ -1,0 +1,21 @@
+.blok-center {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    margin: auto; 
+    top: 0; 
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+    background: #fc0; 
+    border: 1px solid #000;
+    padding: 10px; 
+    overflow: auto; 
+   }
+
+.img    {
+    position: absolute;
+    height: 150px;
+    left: 375px;
+    top: 100px;
+}
